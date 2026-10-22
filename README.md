@@ -31,6 +31,9 @@ Peloton changes this over time, so re-check after any Peloton software update.
 - [Peloton Support — Bike / Bike+ dimensions & specifications](https://support.onepeloton.com/s/article/360042990472-Peloton-Bike-and-BikePlus-Dimensions-Specifications-and-Power-Requirements)
 - [Android SDK Platform Tools (manual ADB fallback)](https://developer.android.com/tools/releases/platform-tools)
 
+**Keeping your setup**
+- [Preventing automatic tablet updates](PREVENTING-UPDATES.md) — router domain/WAN blocking, ADB package disabling, firewall apps, and how effective each option really is
+
 **Apps to install on the tablet**
 - [Grupetto — metrics overlay & FTMS broadcast](https://github.com/selalipop/grupetto)
 - [Aurora Store — on F-Droid](https://f-droid.org/en/packages/com.aurora.store/)
